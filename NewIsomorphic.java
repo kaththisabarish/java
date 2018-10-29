@@ -10,7 +10,7 @@ input= scan.nextLine().split(" ");
 str1= input[0];
 str2= input[1];
 
-           String res = TestIsomorphic.checkIsomorphic(str1,str2);
+           String res = NewIsomorphic.checkIsomorphic(str1,str2);
            System.out.println(res);
      }
 
